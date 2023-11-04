@@ -1,0 +1,15 @@
+<web-app>
+	<servlet>
+		<servlet-name>JSV</servlet-name>servlet-name>
+		<servlet-class>JavaServlets</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>JSV</servlet-name>
+		<url-pattern>/javaservlets.htm</url-pattern>
+	</servlet-mapping>>
+	<welcome-file-list>
+		<welcome-file>javaservlets.htm</welcome-file>
+	</welcome-file-list>
+
+
+</web-app>

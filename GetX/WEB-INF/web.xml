@@ -1,0 +1,13 @@
+<web-app>
+	<servlet>
+		<servlet-name>javaservlets</servlet-name>
+		<servlet-class>JavaServletsForm</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>javaservlets</servlet-name>
+		<url-pattern> /JavaServlets.htm </url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+		<welcome-file>JavaServlets.htm</welcome-file>
+	</welcome-file-list>
+</web-app>
